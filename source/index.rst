@@ -12,7 +12,7 @@ Welcome to docs's documentation!
 
 
 
-Indices and tables
+你好测试一下中文
 ==================
 
 * :ref:`genindex`
