@@ -15,7 +15,7 @@ release = 'v1'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'recommonmark',
+    'myst_parser',
     'sphinx_markdown_tables'
 ]
 
