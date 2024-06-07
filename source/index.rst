@@ -3,18 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to docs's documentation!
+Just a docs 
 ================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: 单词小说系列:
 
-
-
-你好测试一下中文
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   未来古纪/index
